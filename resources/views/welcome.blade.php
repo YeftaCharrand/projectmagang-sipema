@@ -159,7 +159,7 @@
         <nav>
             <div class="logo">
                 <img src="img/PNC.jpg" alt="PNC Logo">
-                <span>POLITEKNIK NEGERI CILACAP 2024</span>
+                <span>POLITEKNIK NEGERI CILACAP</span>
             </div>
         </nav>
     </header>
